@@ -4,10 +4,11 @@ Você já pensou em melhorar em algo e não sabia por onde começar? Tinha conhe
 
 Além do mais, não é apenas uma lista qualquer, possuímos uma boa parte descritiva, principalmente para os projetos que contém diversos detalhes.
 
-| Nome                                                                  | Descrição                                                                     |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Calculadora de IMC](./projetos/calculadora-imc.md)                   | Calculadora que informa ao usuário se ele está em seu peso ideal              |
-| [Calculadora de Dois Números](./projetos/calculadora-dois-numeros.md) | Calculadora capaz de realizar diversas operações aritméticas com dois números |
+| Nome                                                                  | Descrição                                                                          |
+| ----------------------------------------------------------------------| -----------------------------------------------------------------------------------|
+| [Calculadora de IMC](./projetos/calculadora-imc.md)                   | Calculadora que informa ao usuário se ele está em seu peso ideal                   |
+| [Calculadora de Dois Números](./projetos/calculadora-dois-numeros.md) | Calculadora capaz de realizar diversas operações aritméticas com dois números      |
+| [Formatador de Números](./projetos/formatador-de-numeros.md)          | Formatador de números que recebe um valor e o formata dependendo do que foi pedido |
 
 ## 🤝 Contribuição
 
