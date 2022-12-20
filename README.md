@@ -4,9 +4,10 @@ Você já pensou em melhorar em algo e não sabia por onde começar? Tinha conhe
 
 Além do mais, não é apenas uma lista de exercícios jogada, possuímos uma boa parte descritiva, principalmente para os projetos que contém mais detalhes ainda.
 
-| Nome                                             | Descrição |
-|--------------------------------------------------|-----------|
-| [Calculadora IMC](./projetos/calculadora-imc.md) |           |
+| Nome                                                                  | Descrição                                                                     |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| [Calculadora IMC](./projetos/calculadora-imc.md)                      |                                                                               |
+| [Calculadora de Dois Números](./projetos/calculadora-dois-numeros.md) | Calculadora capaz de realizar diversas operações aritméticas com dois números |
 
 ## 🤝 Contribuição
 
