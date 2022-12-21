@@ -1,7 +1,7 @@
 ---
 name: Novo exercício
 about: Template para criação de exercícios.
-title: ''
+title: '🚀 [Nome do exercício]'
 labels: enhancement
 assignees: ''
 
