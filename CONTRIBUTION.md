@@ -1,11 +1,14 @@
 ## 🤝 Contribuindo
+
 Aqui fica nossa página para informar você sobre como contribuir com nosso repositório.
 
 ## 📝 Requisitos
-Para validarmos as contribuições seguimos algumas normas, elas dependem do cenário em que se encontram, seguem os mesmos:
+
+Para validarmos as contribuições seguimos algumas normas, elas dependem do cenário em que se encontram. Seguem os mesmos:
 
 ### Abertura de Issue
-Para abertura da Issue temos um template que deve ser seguido, facilitando entendimento e mantendo a padronização.
+
+Para abertura de um Issue temos um template que deve ser seguido, facilitando o entendimento e mantendo a padronização.
 
 1. Crie sua Issue escolhendo o template [aqui](https://github.com/geracao/treinamento/issues/new/choose).
 2. Escolhemos então o modelo: "Novo exercício"
@@ -53,3 +56,4 @@ O commit seria: `add 🚀 Criação de um guia de contribuição`
     - Segue abaixo uma imagem exemplo:
     
     ![Realizando Pull Request de um repositório "forkado"](./assets/img/pull-request-branches-comparar.png)
+    
