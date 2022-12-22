@@ -10,7 +10,7 @@ Para abertura da Issue temos um template que deve ser seguido, facilitando enten
 1. Crie sua Issue escolhendo o template [aqui](https://github.com/geracao/treinamento/issues/new/choose).
 2. Escolhemos então o modelo: "Novo exercício"
     ![Selecionando template de Issue](./assets/img/issue-template-selecionar.png)
-3. Aqui temos uma visualização básica do template
+3. Aqui temos uma visualização básica do template </br>
     ![Template - Novo exercício](./assets/img/issue-template-novo-exercicio.png)
 4. Após o preenchimento do título e do corpo da Issue envie-a clicando em "Submit new issue"
 
